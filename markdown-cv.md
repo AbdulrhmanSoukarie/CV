@@ -1,10 +1,12 @@
 ## **NAME** : _Abdulrhman Soukarieh_
 
-## **Email** : *Abdulrhman.Soukarieh1@gmail.com*
+## **Address** : _Ain El Remenh_
 
 ## **Phone** : _76955636_
 
-## **Address** : _Ain El Remenh_
+## **Email** : *Abdulrhman.Soukarieh1@gmail.com*
+
+## **Website** : _www.abd-s.com_
 
 ---
 
@@ -25,6 +27,8 @@
 - JavaScript
   - object oriented programming
 - Php.
+
+* Wordpress
 
 ### LANGUAGES
 
@@ -51,3 +55,11 @@ Universit:
 ```
 
 ## Experience
+
+- 3 months intership at Ariaa Group Ashrafieh
+
+## Hobbies
+
+- Reading
+- Swimming
+- Watching Documenteries
